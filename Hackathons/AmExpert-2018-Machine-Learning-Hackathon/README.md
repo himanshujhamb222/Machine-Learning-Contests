@@ -20,8 +20,8 @@ Recent years have witnessed a surge in the number of internet savvy users. Compa
 A Binary Classification Problem for user ad-clicks, in which data pertaining to User Demographics, User actions and Historical logs of the user are provided for some Product id's.
 
 ## Leaderboard
-* **Public LB : 35th Rank**
-* **Private LB : 24th Rank**
+* **Public LB : 40th Rank**
+* **Private LB : 45th Rank**
 
 ### Link to hackathon
 https://datahack.analyticsvidhya.com/contest/american-express-amexpert-2018/
